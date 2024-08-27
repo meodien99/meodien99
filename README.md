@@ -9,6 +9,7 @@ TypeScript 📘 & Rust 🦀 are my favorite programming languages to use (lol ev
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-D4FD6F9?style=flat-square&logo=vite&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
@@ -30,5 +31,5 @@ Learning never ends, and that is awesome!
 <h4>Feel free to contact me 👇</h4> 
 <br><br>
 <a href="https://t.me/maad_caaat" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40madcat-28a8ea"></a>
-<a href="[https://linkedin.com/in/moepoi](https://www.linkedin.com/in/mad-cat-100b2b9a/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-madcat-informational"></a>
+<a href="https://www.linkedin.com/in/mad-cat-100b2b9a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-madcat-informational"></a>
 <a href="mailto:seb.madcat@gmail.com"><img src="https://img.shields.io/badge/Email-seb.madcat%40gmail.com-orange"></a>
