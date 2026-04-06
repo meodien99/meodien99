@@ -2,7 +2,9 @@
 
 I am Software developer with hands-on experience in remote frontend development, interested in web development 🌐, game engines 🎮, graphics 🎨, backend-system 🏛️ and blockchain/trading-strategy bots 🤖, diving into learning Computer Graphics for now 💅.
 
-TypeScript 📘 & Rust 🦀 are my favorite programming languages to use (lol even thought I am very new to Rust). But I know many more! 
+TypeScript 📘 & Rust 🦀 are my favorite programming languages to use. But I know many more! 
+
+Currently exploring AI and its applications.
 
 <h4>Things I code with</h4>
 <p>
